@@ -1437,12 +1437,12 @@ a.text-hover:focus:after {
   bottom: 40px;
 }
 
-.banner-content .banner-title,
-.card .card-title {
+.banner-content .banner-title {
   font-weight: 900;
   line-height: 1em;
-  letter-spacing: -0.2rem;
+  letter-spacing: -0.05rem;
 }
+
 .display-0 {
   font-size: calc(1.625rem + 4.5vw);
 }
